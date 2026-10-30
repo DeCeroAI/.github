@@ -71,6 +71,6 @@ DeCeroAI Solutions takes AI from prototype to production: governed semantic laye
 
 ### Open source
 
-🚧 Projects land here as they are ready. Each one ships with tests, CI, docs, and a security pass before its first release.
+🚧 Open-source work is published from [**@madecero**](https://github.com/madecero). Each project ships with tests, CI, docs, and a security pass before its first release.
 
 <p align="center"><sub>de0, LLC d/b/a DeCeroAI Solutions &#183; Waunakee, Wisconsin &#183; <a href="https://deceroai.com/contact">deceroai.com/contact</a></sub></p>
